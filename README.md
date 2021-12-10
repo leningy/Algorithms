@@ -12,8 +12,8 @@
     + [] match range of char
     + . match any character
     + ? match zero or one
-    + /+ match one or more
-    + /* match zero, one, or more
+    + \+ match one or more
+    + \* match zero, one, or more
     + ^ beginning of a string / negation in []
     + $ end of a string
    
