@@ -17,5 +17,6 @@
     + \* match zero, one, or more
     + ^ beginning of a string / negation in []
     + $ end of a string
+    + ?: non-capturing group
    
 - 
